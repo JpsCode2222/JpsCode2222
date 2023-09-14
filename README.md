@@ -1,3 +1,4 @@
+![logo](https://github.com/JpsCode2222/JpsCode2222/blob/main/jp%20banner%20github.png)
 <h1 align="center">Hi 👋, I'm Jayad Pathan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="left" alt="Codingimg" width="400px" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
